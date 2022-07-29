@@ -1,4 +1,13 @@
+<!--
 # Contribute with Docs
+-->
+# Docs への貢献
+
+<!--
+There are many ways in which it is possible to contribute to the Documentation team.
+-->
+ドキュメンテーションチームへの貢献には、さまざまな方法があります。
+
 
 There are many ways in which it is possible to contribute to the Documentation team.
 
